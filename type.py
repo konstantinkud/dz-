@@ -1,0 +1,10 @@
+a=float('1')  # ???
+b=int('2')  # ???
+c=bool(1)  # ???
+v=bool('')  # ???
+x=bool(0)  # ???
+print (a)
+print (b)
+print (c)
+print (v)
+print (x)
