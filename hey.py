@@ -1,2 +1,2 @@
-name = 'Миша'
+name = 'Мишаy'
 print (f'Привет,{name}') 
